@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![y-shika's github stats](https://github-readme-stats.vercel.app/api?username=y-shika&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
